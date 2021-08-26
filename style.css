@@ -1,0 +1,61 @@
+
+
+
+
+.Header{
+    background-color: darkorchid;
+    Border:Solid;
+    text-align: center;
+    
+    
+
+
+}
+.Grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    justify-content: center;
+    Border:Solid;
+    border: radius 20px;
+    text-align:center
+}
+.fan{
+    Border:Solid;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.sun{
+    display:flex;
+    flex-wrap:wrap;
+    text-align: center;
+}
+
+    .grind{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content: space-evenly;
+        justify-content: center;
+        Border:Solid;
+        border: radius 20px;
+        text-align:center
+    }    
+
+.run{
+    Border:Solid;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+
+/* margin-left:50; */
+/* border:tomato; */
+/* border:solid; */
+/* border-radius: 50px; */
+/* border-width: 1px; */
+/* display:flex; */
+/* justify-content: center;   */
